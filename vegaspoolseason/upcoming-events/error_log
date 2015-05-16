@@ -1,0 +1,1 @@
+[23-Jan-2015 14:15:02 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/umbrelm5/public_html/vegaspoolseason/event-importer/dbconnect.inc on line 11
